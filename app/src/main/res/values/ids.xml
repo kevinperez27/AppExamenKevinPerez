@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="menu_edit" />
+    <item type="id" name="menu_delete" />
+    <item name="btnSaveChanges" type="id" />
+    <item name="edtEditDescription" type="id" />
+    <item name="edtEditLongitude" type="id" />
+    <item name="edtEditLongitud" type="id" />
+    <item name="edtEditLatitude" type="id" />
+</resources>
